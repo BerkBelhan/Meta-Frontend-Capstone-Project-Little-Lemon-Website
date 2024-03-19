@@ -23,8 +23,7 @@ test('Initialize/Update Times', () => {
   fireEvent.click(reserveButton);
 
   const testTime = []
-  // userEvent.selectOptions(screen.getByLabelText("Choose Time"),screen.getByRole('option', { name: testTime}))
-  // expect(screen.getByRole('option', { name: testTime}).selected).toBe(true);
+
 
 
 })
